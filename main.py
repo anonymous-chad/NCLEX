@@ -524,7 +524,7 @@ def show_pdf_viewer():
     pdf_document = None
     try:
         import fitz  
-        pdf_document = fitz.open('your_document.pdf')
+        pdf_document = fitz.open('document.pdf')
         total_pages = pdf_document.page_count
 
         pdf_page_width, pdf_page_height = 8.5 * 72, 11 * 72
