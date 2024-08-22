@@ -1,0 +1,337 @@
+[
+  {
+      "id": 1,
+      "question": "Which cranial nerve is responsible for facial sensations and movements for chewing?",
+      "options": ["A) Cranial nerve I", "B) Cranial nerve III", "C) Cranial nerve V", "D) Cranial nerve VII"],
+      "correct_answer": "C"
+  },
+  {
+      "id": 2,
+      "question": "Which medication is the first-line treatment for trigeminal neuralgia?",
+      "options": ["A) Gabapentin", "B) Prednisone", "C) Carbamazepine", "D) Memantine"],
+      "correct_answer": "C"
+  },
+  {
+      "id": 3,
+      "question": "What symptom is a classic presentation of Bell's Palsy?",
+      "options": ["A) Bilateral facial droop", "B) Unilateral facial droop", "C) Loss of smell", "D) Difficulty swallowing"],
+      "correct_answer": "B"
+  },
+  {
+      "id": 4,
+      "question": "Which lobe of the brain is responsible for emotions and personality?",
+      "options": ["A) Temporal Lobe", "B) Occipital Lobe", "C) Frontal Lobe", "D) Parietal Lobe"],
+      "correct_answer": "C"
+  },
+  {
+      "id": 5,
+      "question": "Deficits in which lobe can cause a patient to not recognize being touched?",
+      "options": ["A) Temporal Lobe", "B) Occipital Lobe", "C) Frontal Lobe", "D) Parietal Lobe"],
+      "correct_answer": "D"
+  },
+  {
+      "id": 6,
+      "question": "What is assessed by the Glasgow Coma Scale?",
+      "options": ["A) Cognitive function", "B) Pain response", "C) Patient's level of consciousness", "D) Muscular strength"],
+      "correct_answer": "C"
+  },
+  {
+      "id": 7,
+      "question": "An ischemic stroke is caused by:",
+      "options": ["A) A clot formed in the brain", "B) Bleeding in the brain", "C) An aneurysm in a blood vessel", "D) Atherosclerosis in extremity arteries"],
+      "correct_answer": "A"
+  },
+  {
+      "id": 8,
+      "question": "Which of the following patients CAN safely receive thrombolytic therapy (tPA) for ischemic stroke?",
+      "options": ["A) A patient with intracranial hemorrhage", "B) A patient with a previous ischemic stroke six months ago", "C) A patient who had major surgery one week ago", "D) A patient with uncontrolled hypertension"],
+      "correct_answer": "B"
+  },
+  {
+      "id": 9,
+      "question": "Which disorder is characterized by sudden jerky movements and has an autosomal dominant inheritance pattern?",
+      "options": ["A) Parkinson's disease", "B) Multiple sclerosis", "C) Amyotrophic lateral sclerosis (ALS)", "D) Huntington's disease"],
+      "correct_answer": "D"
+  },
+  {
+      "id": 10,
+      "question": "What is the primary function of the Glossopharyngeal nerve (Cranial Nerve IX)?",
+      "options": ["A) Smell", "B) Vision", "C) Facial movement", "D) Swallowing and gag reflex"],
+      "correct_answer": "D"
+  },
+  {
+      "id": 11,
+      "question": "A patient presents with unilateral facial droop, increased tearing, and facial pain. Which cranial nerve could potentially be damaged?",
+      "options": ["A) Trigeminal (CN V)", "B) Facial (CN VII)", "C) Glossopharyngeal (CN IX)", "D) Hypoglossal (CN XII)"],
+      "correct_answer": "B"
+  },
+  {
+      "id": 12,
+      "question": "In a patient with suspected Broca's aphasia, which type of communication method is MOST appropriate?",
+      "options": ["A) Ask open-ended questions", "B) Engage in detailed storytelling", "C) Use pictures and ask yes or no questions", "D) Encourage the patient to write down their thoughts"],
+      "correct_answer": "C"
+  },
+  {
+      "id": 13,
+      "question": "What condition might a patient with Wernicke's area damage exhibit?",
+      "options": ["A) Difficulty in forming words", "B) Difficulty in understanding language", "C) Paralysis of the facial muscles", "D) Loss of vision"],
+      "correct_answer": "B"
+  },
+  {
+      "id": 14,
+      "question": "What is the primary intervention for a patient with Glasgow Coma Scale score of 8 or less?",
+      "options": ["A) Immediate intubation", "B) Administration of IV fluids", "C) CT scan of the head", "D) Administration of high-dose steroids"],
+      "correct_answer": "A"
+  },
+  {
+      "id": 15,
+      "question": "Thrombolytic therapy for ischemic stroke is contraindicated in which of the following situations?",
+      "options": ["A) Intracranial neoplasm", "B) Pregnancy", "C) Diabetic retinopathy", "D) History of a hemorrhagic stroke within the last three months"],
+      "correct_answer": "D"
+  },
+  {
+      "id": 16,
+      "question": "Which medication is used prophylactically in patients who are prone to migraines?",
+      "options": ["A) Gabapentin", "B) Phenytoin", "C) Propanolol", "D) Riluzole"],
+      "correct_answer": "C"
+  },
+  {
+      "id": 17,
+      "question": "What is the autosomal dominant disorder characterized by uncontrollable jerky movements, also known as chorea?",
+      "options": ["A) Alzheimer's disease", "B) Parkinson's disease", "C) Multiple sclerosis", "D) Huntington's disease"],
+      "correct_answer": "D"
+  },
+  {
+      "id": 18,
+      "question": "When educating a patient who has just undergone cataract surgery, which activity should they be advised to avoid?",
+      "options": ["A) Regular walks in the park", "B) Watching television with low volume", "C) Strenuous activities", "D) Reading in well-lit conditions"],
+      "correct_answer": "C"
+  },
+  {
+      "id": 19,
+      "question": "What condition is typically treated with Carbamazepine to manage severe facial pain?",
+      "options": ["A) Bell's Palsy", "B) Trigeminal neuralgia", "C) Glossopharyngeal neuralgia", "D) Acoustic neuroma"],
+      "correct_answer": "B"
+  },
+  {
+      "id": 20,
+      "question": "What is the primary goal in treating a patient with Bell's Palsy?",
+      "options": ["A) Preventing seizure activity", "B) Maintaining facial muscle tone", "C) Restoring sense of smell", "D) Enhancing visual acuity"],
+      "correct_answer": "B"
+  },
+  {
+      "id": 21,
+      "question": "Which cranial nerve's damage is assessed through a patient's gag reflex?",
+      "options": ["A) Trigeminal", "B) Facial", "C) Glossopharyngeal", "D) Hypoglossal"],
+      "correct_answer": "C"
+  },
+  {
+      "id": 22,
+      "question": "A contrecoup head injury can lead to damage to which part of the brain?",
+      "options": ["A) Temporal lobe", "B) Parietal lobe", "C) Occipital lobe", "D) Frontal lobe"],
+      "correct_answer": "C"
+  },
+  {
+      "id": 23,
+      "question": "Which lobe is affected in a patient presenting with Wernicke's aphasia?",
+      "options": ["A) Frontal lobe", "B) Parietal lobe", "C) Occipital lobe", "D) Temporal lobe"],
+      "correct_answer": "D"
+  },
+  {
+      "id": 24,
+      "question": "What is the main precaution to teach a patient after cataract surgery to prevent complications?",
+      "options": ["A) Use of sunglasses when outdoors", "B) Sleeping on the unaffected side for the first 48 hours", "C) Frequent use of antibiotic eye drops", "D) Avoiding rapid eye movements"],
+      "correct_answer": "B"
+  },
+  {
+      "id": 25,
+      "question": "Prior to administering TPA to a stroke patient, which patient history would be a contraindication?",
+      "options": ["A) Intracranial hemorrhage", "B) Diet-controlled diabetes", "C) Controlled hypertension", "D) Peripheral vascular disease"],
+      "correct_answer": "A"
+  },
+  {
+      "id": 26,
+      "question": "Autosomal dominant disorders require how many affected parents to pass the risk of disease to offspring?",
+"options": ["A) None, it's a spontaneous mutation", "B) One affected parent", "C) Both parents affected", "D) It depends on the specific disorder"],
+"correct_answer": "B"
+},
+{
+  "id": 27,
+  "question": "Which drug is commonly prescribed to slow the progression of symptoms in a patient with Alzheimer's disease?",
+  "options": ["A) Gabapentin", "B) Prednisone", "C) Memantine", "D) Riluzole"],
+  "correct_answer": "C"
+  },
+  {
+  "id": 28,
+  "question": "In Multiple Sclerosis (MS), symptoms often worsen under what conditions?",
+  "options": ["A) Cold temperatures", "B) After prolonged rest", "C) During episodes of stress or heat", "D) In high altitude"],
+  "correct_answer": "C"
+  },
+  {
+  "id": 29,
+  "question": "What is the primary treatment focus for Amyotrophic Lateral Sclerosis (ALS)?",
+  "options": ["A) Aggressive physical therapy", "B) Definitive surgical intervention", "C) Slowing disease progression", "D) Prompt curative medication"],
+  "correct_answer": "C"
+  },
+  {
+  "id": 30,
+  "question": "What kind of movement disorder is usually seen in patients with Huntington's disease?",
+  "options": ["A) Tremor at rest", "B) Bradykinesia", "C) Chorea", "D) Rigidity"],
+  "correct_answer": "C"
+  },
+  {
+  "id": 31,
+  "question": "Which instruction is important for a patient's caregiver after discharge with a diagnosis of Alzheimer's?",
+  "options": ["A) Keep locks out of sight to prevent wandering", "B) Encourage the patient to engage in complex tasks at home", "C) Limit social interactions to reduce stress", "D) Increase stimuli at home to keep the brain active"],
+  "correct_answer": "A"
+  },
+  {
+  "id": 32,
+  "question": "When a patient comes in with alcohol intoxication, what is given to prevent Wernicke's encephalopathy?",
+  "options": ["A) Intravenous glucose", "B) Oral thiamine", "C) Intravenous thiamine before or with IV glucose", "D) High doses of vitamin B12"],
+  "correct_answer": "C"
+  },
+  {
+  "id": 33,
+  "question": "Which of the following cranial nerves is associated with the sensation and movement involved in chewing?",
+  "options": [
+  "A) Cranial Nerve 1 (Olfactory)",
+  "B) Cranial Nerve 2 (Optic)",
+  "C) Cranial Nerve 3 (Oculomotor)",
+  "D) Cranial Nerve 5 (Trigeminal)"
+  ],
+  "correct_answer": "D"
+  },
+  {
+  "id": 34,
+  "question": "What is a common side effect of Carbamazepine, a medication used to treat Trigeminal Neuralgia?",
+  "options": [
+  "A) Hypertension",
+  "B) Severe headache",
+  "C) Infection",
+  "D) Constipation"
+  ],
+  "correct_answer": "C"
+  },
+  {
+  "id": 35,
+  "question": "Which cranial nerve is assessed when testing the gag reflex?",
+  "options": [
+  "A) Cranial Nerve 5 (Trigeminal)",
+  "B) Cranial Nerve 7 (Facial)",
+  "C) Cranial Nerve 9 (Glossopharyngeal)",
+  "D) Cranial Nerve 12 (Hypoglossal)"
+  ],
+  "correct_answer": "C"
+  },
+  {
+  "id": 36,
+  "question": "A patient with an injury to which lobe would most likely exhibit deficits in their vision?",
+  "options": [
+  "A) Temporal Lobe",
+  "B) Occipital Lobe",
+  "C) Parietal Lobe",
+  "D) Frontal Lobe"
+  ],
+  "correct_answer": "B"
+  },
+  {
+  "id": 37,
+  "question": "What is the recommended treatment for a patient diagnosed with Wernicke's encephalopathy?",
+  "options": [
+  "A) Administering intravenous insulin",
+  "B) Administering intravenous thiamine",
+  "C) Performing an immediate CT scan",
+  "D) Providing oxygen therapy"
+  ],
+  "correct_answer": "B"
+  },
+  {
+  "id": 38,
+  "question": "What teaching is essential for a patient diagnosed with ALS (Amyotrophic Lateral Sclerosis)?",
+  "options": [
+  "A) Immobility will occur rapidly, with mental decline",
+  "B) Medications can reverse the disease process",
+  "C) Progression is slow, with no cognitive impairment",
+  "D) Strong analgesics will be necessary for severe pain"
+  ],
+  "correct_answer": "C"
+  },
+  {
+  "id": 39,
+  "question": "When treating a stroke patient, what is the time frame for administering TPA to be effective?",
+  "options": [
+  "A) Within 1 hour of symptom onset",
+  "B) Within 3 to 4 ½ hours of symptom onset",
+  "C) Within 12 hours of symptom onset",
+  "D) Within 24 hours of symptom onset"
+  ],
+  "correct_answer": "B"
+  },
+  {
+  "id": 40,
+  "question": "Which intervention is a priority for patients who have experienced a retinal detachment?",
+  "options": [
+  "A) Keeping the patient in a prone position for 14 days",
+  "B) Administering high-dose antibiotics",
+  "C) Immediate discharge with no follow-up required",
+  "D) Advising against any form of eye surgery"
+  ],
+  "correct_answer": "A"
+  },
+  {
+  "id": 41,
+  "question": "What is the primary reason to monitor CBC in a patient taking Carbamazepine?",
+  "options": [
+  "A) To check for increased hemoglobin levels",
+  "B) To detect potential electrolyte imbalances",
+  "C) To assess for a decrease in white blood cells",
+  "D) To confirm adequate platelet count"
+  ],
+  "correct_answer": "C"
+  },
+  {
+  "id": 42,
+  "question": "In Parkinson's disease, which neurotransmitter is decreased?",
+  "options": [
+  "A) Serotonin",
+  "B) Dopamine",
+  "C) Acetylcholine",
+  "D) GABA"
+  ],
+  "correct_answer": "B"
+  },
+  {
+  "id": 43,
+  "question": "Which of the following cranial nerves is associated with the sensation and movement involved in chewing?",
+  "options": [
+  "A) Cranial Nerve 1 (Olfactory)",
+  "B) Cranial Nerve 2 (Optic)",
+  "C) Cranial Nerve 3 (Oculomotor)",
+  "D) Cranial Nerve 5 (Trigeminal)"
+  ],
+  "correct_answer": "D"
+  },
+  {
+  "id": 44,
+  "question": "What is a common side effect of Carbamazepine, a medication used to treat Trigeminal Neuralgia?",
+  "options": [
+  "A) Hypertension",
+  "B) Severe headache",
+  "C) Infection",
+  "D) Constipation"
+  ],
+  "correct_answer": "C"
+  },
+  {
+  "id": 45,
+  "question": "Which cranial nerve is assessed when testing the gag reflex?",
+  "options": [
+  "A) Cranial Nerve 5 (Trigeminal)",
+  "B) Cranial Nerve 7 (Facial)",
+  "C) Cranial Nerve 9 (Glossopharyngeal)",
+  "D) Cranial Nerve 12 (Hypoglossal)"
+  ],
+  "correct_answer": "C"
+  }
+  ]
