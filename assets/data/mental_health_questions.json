@@ -1,0 +1,447 @@
+[
+  {
+      "id": 1,
+      "question": "Which ego defense mechanism involves reverting to an earlier stage of development when faced with stress?",
+      "options": ["A) Acting out", "B) Denial", "C) Passive aggressive", "D) Regression"],
+      "correct_answer": "D"
+  },
+  {
+      "id": 2,
+      "question": "A nurse suspects child abuse when a child presents with which of the following findings?",
+      "options": ["A) Sunset eyes", "B) Multiple fractures at different stages of healing", "C) Hypertension", "D) Malnutrition"],
+      "correct_answer": "B"
+  },
+  {
+      "id": 3,
+      "question": "When assessing for the possibility of spouse abuse, which action is most appropriate for the nurse to take?",
+      "options": ["A) Confront the abuser directly", "B) Separate the couple and privately ask the patient about safety", "C) Offer judgmental advice to the patient", "D) Encourage the couple to solve their problems together"],
+      "correct_answer": "B"
+  },
+  {
+      "id": 4,
+      "question": "The ADHD medication methylphenidate requires monitoring for which of the following side effects?",
+      "options": ["A) Excessive weight gain", "B) Increased appetite", "C) Suppressed appetite and growth", "D) Hypotension"],
+      "correct_answer": "C"
+  },
+  {
+      "id": 5,
+      "question": "Which of the following characteristics is a hallmark sign of Autism Spectrum Disorder?",
+      "options": ["A) Preference for social interaction", "B) High tolerance for loud noises", "C) Desire for isolation", "D) Attention seeking behavior"],
+      "correct_answer": "C"
+  },
+  {
+      "id": 6,
+      "question": "Select the treatment approach for delirium that differs from dementia?",
+      "options": ["A) Cognitive therapies", "B) Treat underlying causes because it is potentially reversible", "C) Prescribe SSRIs", "D) Focus on irreversible progression"],
+      "correct_answer": "B"
+  },
+  {
+      "id": 7,
+      "question": "A patient presents with delusions, hallucinations, and disorganized speech. Having ruled out non-psychiatric causes, which medication is appropriate to administer?",
+      "options": ["A) Lorazepam", "B) Haloperidol", "C) Diphenhydramine", "D) All of the above"],
+      "correct_answer": "D"
+  },
+  {
+      "id": 8,
+      "question": "To treat a patient with Bipolar Disorder experiencing grandiosity and flight of ideas, which medication is most appropriate?",
+      "options": ["A) Lithium", "B) Haloperidol", "C) Citalopram", "D) Methylphenidate"],
+      "correct_answer": "A"
+  },
+  {
+      "id": 9,
+      "question": "In patients with Major Depressive Disorder, SSRIs may cause which life-threatening syndrome if administered with MAOIs?",
+      "options": ["A) Wernicke's encephalopathy", "B) Neuroleptic Malignant Syndrome", "C) Serotonin Syndrome", "D) Malignant Hyperthermia"],
+      "correct_answer": "C"
+  },
+  {
+      "id": 10,
+      "question": "What is a critical component of the risk assessment for a patient with suicidal ideation?",
+      "options": ["A) Assessing for insomnia", "B) Asking about the patient's favorite color", "C) Evaluating the presence of an organized plan", "D) Inquiring about the patient's diet"],
+      "correct_answer": "C"
+  },
+  {
+      "id": 11,
+      "question": "Which of the following best describes displacement as an ego defense mechanism?",
+      "options": [
+        "A) Directly confronting the source of frustration",
+        "B) Transferring feelings towards one person onto another",
+        "C) Refusal to acknowledge an unpleasant reality",
+        "D) Expressing frustration through artistic or creative outlets"
+      ],
+      "correct_answer": "B"
+  },
+  {
+      "id": 12,
+      "question": "What is the first-line treatment indicated for Attention Deficit Hyperactivity Disorder (ADHD) in children?",
+      "options": [
+        "A) Cognitive behavioral therapy",
+        "B) Stimulant medications, such as methylphenidate",
+        "C) Antipsychotic medications",
+        "D) Dietary modifications"
+      ],
+      "correct_answer": "B"
+  },
+  {
+      "id": 13,
+      "question": "Which symptom is NOT typically associated with Autism Spectrum Disorder?",
+      "options": [
+        "A) Enjoys being around loud noises",
+        "B) Prefers isolation",
+        "C) Dislike of disruptions to routine",
+        "D) Difficulty with social interactions"
+      ],
+      "correct_answer": "A"
+  },
+  {
+      "id": 14,
+      "question": "When presenting with an acute onset of altered mental status, the condition can potentially be reversed with appropriate treatment of the underlying cause. This describes:",
+      "options": [
+        "A) Dementia",
+        "B) Delirium",
+        "C) Schizophrenia",
+        "D) Major depressive disorder"
+      ],
+      "correct_answer": "B"
+  },
+  {
+      "id": 15,
+      "question": "Which class of medications should be administered first when treating a patient with psychosis to calm them down?",
+      "options": [
+        "A) SSRIs",
+        "B) Benzodiazepines, such as Lorazepam",
+        "C) Antipsychotics, such as Haloperidol",
+        "D) Mood stabilizers, such as Lithium"
+      ],
+      "correct_answer": "C"
+  },
+  {
+      "id": 16,
+      "question": "Clozapine, an antipsychotic medication, requires careful monitoring due to the risk of:",
+      "options": [
+        "A) Diabetes mellitus",
+        "B) Agranulocytosis",
+        "C) Extrapyramidal symptoms",
+        "D) Hypertensive crisis"
+      ],
+      "correct_answer": "B"
+  },
+  {
+      "id": 17,
+      "question": "In Bipolar Disorder, which symptom correlates with the 'D' in the mnemonic 'DIG FAST'?",
+      "options": [
+        "A) Dance-like movements",
+        "B) Dramatic mood swings",
+        "C) Distractibility",
+        "D) Dietary changes"
+      ],
+      "correct_answer": "C"
+  },
+  {
+      "id": 18,
+      "question": "Which symptom must be present for a diagnosis of Major Depressive Disorder?",
+      "options": [
+        "A) Increased appetite",
+        "B) Insomnia",
+        "C) Decreased interest in most activities",
+        "D) Intermittent delusions"
+      ],
+      "correct_answer": "C"
+  },
+  {
+      "id": 19,
+      "question": "A patient on an SSRI who presents with hyperreflexia, fever, and agitation may be experiencing which life-threatening condition?",
+      "options": [
+        "A) Neuroleptic Malignant Syndrome",
+        "B) Diabetic ketoacidosis",
+        "C) Serotonin Syndrome",
+        "D) Malignant Hyperthermia"
+      ],
+      "correct_answer": "C"
+  },
+  {
+      "id": 20,
+      "question": "What is the first line pharmacological treatment for Generalized Anxiety Disorder?",
+      "options": [
+        "A) Selective Serotonin Reuptake Inhibitors (SSRIs)",
+        "B) Monoamine Oxidase Inhibitors (MAOIs)",
+        "C) Benzodiazepines",
+        "D) Beta blockers"
+      ],
+      "correct_answer": "A"
+  },
+  {
+      "id": 21,
+      "question": "Which ego defense mechanism would likely be identified in a child who regresses to wetting the bed after the birth of a sibling?",
+      "options": [
+        "A) Acting out",
+        "B) Denial",
+        "C) Regression",
+        "D) Projection"
+      ],
+      "correct_answer": "C"
+  },
+  {
+      "id": 22,
+      "question": "Which finding would be most concerning for a nurse when screening a child for potential abuse?",
+      "options": [
+        "A) Consistent explanations of injuries",
+        "B) Expected developmental milestones",
+        "C) Evidence of multiple fractures in various stages of healing",
+        "D) Up-to-date vaccination records"
+      ],
+      "correct_answer": "C"
+  },
+  {
+      "id": 23,
+      "question": "What is an appropriate nursing action when suspecting spouse abuse?",
+      "options": [
+        "A) Advise the patient to retaliate",
+        "B) Confront the abuser directly",
+        "C) Separate the suspected victim and ask about personal safety",
+        "D) Encourage the patient to simply avoid the abuser"
+      ],
+      "correct_answer": "C"
+  },
+  {
+      "id": 24,
+      "question": "When treating an elder with poor hygiene, malnutrition, uncontrolled medical conditions, and unexplained bruises, the nurse should:",
+      "options": [
+        "A) Ignore the signs as they are common in the elderly",
+        "B) Separate them from the caregiver and involve a social worker",
+        "C) Prescribe antipsychotic medications",
+        "D) Recommend increased fluid intake"
+      ],
+      "correct_answer": "B"
+  },
+  {
+      "id": 25,
+      "question": "What potential side effect of stimulant medications, like methylphenidate, used to treat ADHD, should a nurse monitor for?",
+      "options": [
+        "A) Decreased respiratory rate",
+        "B) Suppressed appetite and potential impact on growth",
+        "C) Increased drowsiness",
+        "D) Hypertension"
+      ],
+      "correct_answer": "B"
+  },
+  {
+      "id": 26,
+      "question": "Which statement by a parent could indicate a misunderstanding about Autism Spectrum Disorder?",
+      "options": [
+        "A) 'My child enjoys routine and becomes distressed with changes.'",
+        "B) 'I believe my child's condition is due to the vaccines they've had.'",
+        "C) 'My child tends to play alone and avoids social interactions.'",
+        "D) 'Loud noises seem to overwhelm my child.'"
+      ],
+      "correct_answer": "B"
+  },
+  {
+      "id": 27,
+      "question": "Which condition often presents with acute onset and is usually reversible with identification and treatment of the underlying cause?",
+      "options": [
+        "A) Dementia",
+        "B) Delirium",
+        "C) Schizophrenia",
+        "D) Major Depressive Disorder"
+      ],
+      "correct_answer": "B"
+  },
+  {
+      "id": 28,
+      "question": "First-line management of schizophrenia includes the use of which type of medication?",
+      "options": [
+        "A) Antipsychotics",
+        "B) SSRIs",
+        "C) MAOIs",
+        "D) Stimulants"
+      ],
+      "correct_answer": "A"
+  },
+  {
+      "id": 29,
+      "question": "A patient newly diagnosed with schizophrenia will likely exhibit which of the following symptoms?",
+      "options": [
+        "A) Delusions and hallucinations",
+        "B) Heightened sense of smell",
+        "C) Rapid onset of muscle rigidity",
+        "D) Profound respiratory depression"
+      ],
+      "correct_answer": "A"
+  },
+  {
+      "id": 30,
+      "question": "What is a major side effect a nurse should monitor for when a patient is taking Clozapine?",
+      "options": [
+        "A) Hyperglycemia",
+        "B) Diarrhea",
+        "C) Agranulocytosis",
+        "D) Muscle spasms"
+      ],
+      "correct_answer": "C"
+  },
+  {
+      "id": 31,
+      "question": "Therapeutic levels of Lithium are commonly maintained between:",
+      "options": [
+        "A) 0.1 to 0.5 mEq/L",
+        "B) 0.6 to 1.2 mEq/L",
+        "C) 1.3 to 2.0 mEq/L",
+        "D) 2.1 to 2.5 mEq/L"
+      ],
+      "correct_answer": "B"
+  },
+  {
+      "id": 32,
+      "question": "Which critical side effect should be monitored when a patient is switching from an SSRI to an MAOI?",
+      "options": [
+        "A) Neuroleptic malignant syndrome",
+        "B) Serotonin syndrome",
+        "C) Diabetic ketoacidosis",
+        "D) Hypertensive crisis"
+      ],
+      "correct_answer": "B"
+  },
+  {
+      "id": 33,
+      "question": "In treating Major Depressive Disorder, SSRIs may require several weeks to become effective. The nurse should educate the patient that this time frame is typically:",
+      "options": [
+        "A) 1 to 2 weeks",
+        "B) 2 to 3 weeks",
+        "C) 4 to 6 weeks",
+        "D) 7 to 8 weeks"
+      ],
+      "correct_answer": "C"
+  },
+  {
+      "id": 34,
+      "question": "In a patient demonstrating passive-aggressive behavior, you would expect to see:",
+      "options": [
+        "A) Outright physical aggression towards others",
+        "B) Deliberate inefficiency or avoidance of tasks",
+        "C) Direct confrontation about the source of anger",
+        "D) Regression to behaviors typical of a younger age"
+      ],
+      "correct_answer": "B"
+  },
+  {
+      "id": 35,
+      "question": "What type of abuse should be suspected when various stages of healing fractures are noted on a child's X-ray?",
+      "options": [
+        "A) Emotional abuse",
+        "B) Neglect",
+        "C) Physical abuse",
+        "D) Sexual abuse"
+      ],
+      "correct_answer": "C"
+  },
+  {
+      "id": 36,
+      "question": "Which symptom is indicative of shaken baby syndrome?",
+      "options": [
+        "A) Bullet-shaped pupils",
+        "B) Sunset eyes",
+        "C) Smiling continuously",
+        "D) Increased muscular tone"
+      ],
+      "correct_answer": "B"
+  },
+  {
+      "id": 37,
+      "question": "What is the priority action for a nurse who suspects a patient is experiencing intimate partner violence?",
+      "options": [
+        "A) Advise the patient to leave the partner immediately",
+        "B) Contact law enforcement on the patient's behalf",
+        "C) Provide educational materials on abuse",
+        "D) Ensure privacy and ask the patient about their safety"
+      ],
+      "correct_answer": "D"
+  },
+  {
+      "id": 38,
+      "question": "When adjusting the dosage of stimulant medication for ADHD, what assessments are most critical?",
+      "options": [
+        "A) Liver enzymes and cholesterol",
+        "B) Growth patterns and appetite",
+        "C) Urine output and osmolarity",
+        "D) Platelet count and erythrocyte sedimentation rate"
+      ],
+      "correct_answer": "B"
+  },
+  {
+      "id": 39,
+      "question": "How is delirium different from dementia?",
+      "options": [
+        "A) Delirium cannot be reversed; dementia can.",
+        "B) Delirium has a gradual onset; dementia is sudden.",
+        "C) Delirium is usually reversible with treatment; dementia is not.",
+        "D) Dementia presents with fever; delirium does not."
+      ],
+      "correct_answer": "C"
+  },
+  {
+      "id": 40,
+      "question": "What would be an important nursing intervention for a patient with schizophrenia who is experiencing auditory hallucinations?",
+      "options": [
+        "A) Teach them to increase social interactions to distract from the hallucinations",
+        "B) Understand what they are hearing and assess for any potential harm",
+        "C) Immediately start them on a strict behavioral modification program",
+        "D) Isolate the patient to reduce sensory input that could exacerbate the hallucinations"
+      ],
+      "correct_answer": "B"
+  },
+  {
+      "id": 41,
+      "question": "Ziprasidone is an antipsychotic medication that requires monitoring for which adverse effect?",
+      "options": [
+        "A) QT prolongation",
+        "B) Renal failure",
+        "C) Hepatic encephalopathy",
+        "D) Pancreatitis"
+      ],
+      "correct_answer": "A"
+  },
+  {
+      "id": 42,
+      "question": "A patient taking MAOIs should avoid foods high in tyramine because of the risk of developing:",
+      "options": [
+        "A) Hypothyroidism",
+        "B) Hypertensive crisis",
+        "C) Hypoglycemia",
+        "D) Gastrointestinal distress"
+      ],
+      "correct_answer": "B"
+  },
+  {
+      "id": 43,
+      "question": "What therapeutic blood level range should be maintained when a patient is taking lithium for bipolar disorder?",
+      "options": [
+        "A) 0.6 to 1.2 mEq/L",
+        "B) 1.5 to 2.0 mEq/L",
+        "C) 0.1 to 0.5 mEq/L",
+        "D) 2.1 to 2.5 mEq/L"
+      ],
+      "correct_answer": "A"
+  },
+  {
+      "id": 44,
+      "question": "What is the first-line treatment option for generalized anxiety disorder?",
+      "options": [
+        "A) Benzodiazepines",
+        "B) Antipsychotics",
+        "C) Antidepressants, specifically SSRIs",
+        "D) Beta-blockers"
+      ],
+      "correct_answer": "C"
+  },
+  {
+      "id": 45,
+      "question": "Which of the following is a risk factor for suicide that should be assessed by nurses?",
+      "options": [
+        "A) Having a detailed plan",
+        "B) Increased appetite and weight gain",
+        "C) Decreased alcohol consumption",
+        "D) Recent receipt of positive news"
+      ],
+      "correct_answer": "A"
+  }
+]
