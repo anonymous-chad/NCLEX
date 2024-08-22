@@ -1,0 +1,182 @@
+[
+    {
+        "id": 1,
+        "question": "What makes up the vascular system?",
+        "options": ["A) Heart and lungs", "B) Capillaries and valves", "C) Arteries and veins", "D) Ventricles and atria"],
+        "correct_answer": "C"
+    },
+    {
+        "id": 2,
+        "question": "When assessing a patient with left-sided heart failure, what would you expect to find?",
+        "options": ["A) JVD distention", "B) Ascites", "C) Peripheral edema", "D) Pulmonary edema"],
+        "correct_answer": "D"
+    },
+    {
+        "id": 3,
+        "question": "What is the confirmatory test for heart failure?",
+        "options": ["A) Echocardiogram", "B) BNP test", "C) Electrocardiogram", "D) Stress test"],
+        "correct_answer": "B"
+    },
+    {
+        "id": 4,
+        "question": "Loop diuretics are known to cause a decrease in which electrolyte?",
+        "options": ["A) Sodium", "B) Potassium", "C) Calcium", "D) Phosphorus"],
+        "correct_answer": "B"
+    },
+    {
+        "id": 5,
+        "question": "Which of the following is a symptom of hypokalemia?",
+        "options": ["A) Tremors", "B) Muscle cramps", "C) Edema", "D) Ascites"],
+        "correct_answer": "B"
+    },
+    {
+        "id": 6,
+        "question": "A patient in right-sided heart failure might exhibit which symptom?",
+        "options": ["A) Pulmonary edema", "B) Pink frothy sputum", "C) Dyspnea on exertion", "D) Pitting edema"],
+        "correct_answer": "D"
+    },
+    {
+        "id": 7,
+        "question": "If a pediatric patient presents with 'Tet Spells', they are likely diagnosed with which congenital heart defect?",
+        "options": ["A) Patent Ductus Arteriosus", "B) Septal Defects", "C) Coarctation of Aorta", "D) Tetralogy of Fallot"],
+        "correct_answer": "D"
+    },
+    {
+        "id": 8,
+        "question": "What is the treatment for Kawasaki Disease?",
+        "options": ["A) IV immunoglobulin + ASA", "B) High-dose antibiotics", "C) Antitussives", "D) Antipyretics alone"],
+        "correct_answer": "A"
+    },
+    {
+        "id": 9,
+        "question": "What sign is unique to cardiac tamponade and helps differentiate it from heart failure?",
+        "options": ["A) Pulsus paradoxus", "B) JVD", "C) Muffled heart sounds", "D) Peripheral edema"],
+        "correct_answer": "C"
+    },
+    {
+        "id": 10,
+        "question": "What lab findings may indicate bacterial infection according to WBC differentiation?",
+        "options": ["A) Increased eosinophils", "B) Increased basophils", "C) Increased neutrophils", "D) Increased lymphocytes"],
+        "correct_answer": "C"
+    },
+    {
+        "id": 11,
+        "question": "According to the Rule of 50's, normal HDL levels should be:",
+        "options": ["A) Less than 50 mg/dL", "B) Greater than 50 mg/dL", "C) Exactly 50 mg/dL", "D) 50-100 mg/dL"],
+        "correct_answer": "B"
+    },
+    {
+        "id": 12,
+        "question": "What components make up the vascular system?",
+        "options": ["A) Arteries and capillaries", "B) Veins and arterioles", "C) Arteries, veins, and capillaries", "D) Arteries and veins"],
+        "correct_answer": "D"
+    },
+    {
+        "id": 13,
+        "question": "Where does pulmonary edema occur in heart failure?",
+        "options": ["A) Right-sided heart failure", "B) Left-sided heart failure", "C) When the heart is arrhythmic", "D) All types of heart failure"],
+        "correct_answer": "B"
+    },
+    {
+        "id": 14,
+        "question": "Which lab value is used to confirm the presence of heart failure?",
+        "options": ["A) Creatinine", "B) Liver enzymes", "C) B-type Natriuretic Peptide (BNP)", "D) Blood glucose"],
+        "correct_answer": "C"
+    },
+    {
+        "id": 15,
+        "question": "Loop diuretics can cause a decrease in which electrolyte?",
+        "options": ["A) Sodium", "B) Calcium", "C) Magnesium", "D) Potassium"],
+        "correct_answer": "D"
+    },
+    {
+        "id": 16,
+        "question": "What condition may develop as a symptom of severe potassium wasting?",
+        "options": ["A) Hypernatremia", "B) Hypermagnesemia", "C) Hyperkalemia", "D) Hypokalemia"],
+        "correct_answer": "D"
+    },
+    {
+        "id": 17,
+        "question": "What sign or symptom is most indicative of right-sided heart failure?",
+        "options": ["A) Pulmonary edema", "B) Peripheral edema", "C) Pink frothy sputum", "D) Crackles in the lungs"],
+        "correct_answer": "B"
+    },
+    {
+        "id": 18,
+        "question": "The presence of 'Tet Spells' in a child suggests which congenital heart defect?",
+        "options": ["A) Patent Ductus Arteriosus", "B) Atrial Septal Defect", "C) Coarctation of the Aorta", "D) Tetralogy of Fallot"],
+        "correct_answer": "D"
+    },
+    {
+        "id": 19,
+        "question": "Which medication is part of the treatment for Kawasaki Disease?",
+        "options": ["A) Acetaminophen", "B) IV Immunoglobulins", "C) Oral corticosteroids", "D) Naproxen"],
+        "correct_answer": "B"
+    },
+    {
+        "id": 20,
+        "question": "In cardiac tamponade, Beck's triad includes all of the following except:",
+        "options": ["A) Elevated blood pressure", "B) Jugular Vein Distention (JVD)", "C) Muffled heart sounds", "D) Low blood pressure"],
+        "correct_answer": "A"
+    },
+    {
+        "id": 21,
+        "question": "Elevated neutrophils in a Complete Blood Count (CBC) with differential typically indicate:",
+        "options": ["A) Parasitic infection", "B) Viral infection", "C) Bacterial infection", "D) Allergic reaction"],
+        "correct_answer": "C"
+    },
+    {
+        "id": 22,
+        "question": "Which potential complication requires tight INR monitoring in patients post-mechanical valve replacement?",
+        "options": ["A) Infection", "B) Thromboembolism", "C) Hemorrhage", "D) Valve rejection"],
+        "correct_answer": "B"
+    },
+    {
+        "id": 23,
+        "question": "What is a key physiological difference in presentation between left-sided and right-sided heart failure?",
+        "options": ["A) Left-sided HF leads to ascites", "B) Right-sided HF leads to pulmonary edema", "C) Left-sided HF leads to JVD distention", "D) Right-sided HF leads to peripheral edema"],
+        "correct_answer": "D"
+    },
+    {
+        "id": 24,
+        "question": "The primary goal in treating heart failure is to:",
+        "options": ["A) Increase cardiac output", "B) Improve the cardiac index", "C) Reduce preload and afterload", "D) Remove excess fluid from the body"],
+        "correct_answer": "D"
+    },
+    {
+        "id": 25,
+        "question": "A patient with suspected heart failure has a BNP level of 120 pg/ml. This level indicates:",
+        "options": ["A) No heart failure", "B) Potential heart failure", "C) Definite absence of heart failure", "D) Non-cardiac related edema"],
+        "correct_answer": "B"
+    },
+    {
+        "id": 26,
+        "question": "Which class of diuretics are known to be potassium-wasting?",
+        "options": ["A) Loop diuretics", "B) Thiazide diuretics", "C) Potassium-sparing diuretics", "D) Osmotic diuretics"],
+        "correct_answer": "A"
+    },
+    {
+        "id": 27,
+        "question": "Orthostatic hypotension in patients with heart failure can be managed by teaching them to:",
+        "options": ["A) Drink less fluid", "B) Lie down during symptoms", "C) Increase salt intake", "D) Stand up slowly"],
+        "correct_answer": "D"
+    },
+    {
+        "id": 28,
+        "question": "What is the characteristic clinical sign of cardiac tamponade?",
+        "options": ["A) Pulsus paradoxus", "B) Pulsus alternans", "C) Kussmaul's sign", "D) JVD distension"],
+        "correct_answer": "A"
+    },
+    {
+        "id": 29,
+        "question": "Which condition is commonly associated with peripheral edema?",
+        "options": ["A) Left-sided heart failure", "B) Acute myocardial infarction", "C) Hypertension", "D) Atrial fibrillation"],
+        "correct_answer": "A"
+    },
+    {
+        "id": 30,
+        "question": "What is the most effective treatment for Kawasaki disease to prevent coronary artery aneurysms?",
+        "options": ["A) Intravenous immunoglobulin (IVIG)", "B) High-dose aspirin", "C) Antibiotics", "D) Corticosteroids"],
+        "correct_answer": "A"
+    }
+]

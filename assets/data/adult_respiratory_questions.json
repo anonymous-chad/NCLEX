@@ -1,0 +1,152 @@
+[
+  {
+    "id": 1,
+    "question": "Which condition is typically referred to when mentioning Chronic Obstructive Pulmonary Disease (COPD)?",
+    "options": ["A) Chronic bronchitis", "B) Emphysema", "C) Asthma", "D) Pleural effusion"],
+    "correct_answer": "B"
+  },
+  {
+    "id": 2,
+    "question": "What is a potential long-term consequence of chronic steroid use in the treatment of chronic obstructive pulmonary disease (COPD)?",
+    "options": ["A) Cushing's disease", "B) Myocardial infarction", "C) Nystatin", "D) Transplant rejection"],
+    "correct_answer": "A"
+  },
+  {
+    "id": 3,
+    "question": "The destruction of alveoli in a patient with COPD primarily leads to which of the following?",
+    "options": ["A) Increased oxygen levels", "B) Decreased carbon dioxide levels", "C) Elevated CO2 leading to respiratory acidosis", "D) Elevated respiratory rate"],
+    "correct_answer": "C"
+  },
+  {
+    "id": 4,
+    "question": "What is the key concern when patients with emphysema are treated with oxygen therapy?",
+    "options": ["A) Oxygen toxicity", "B) Highly flammable, risk of fire if smoking", "C) Risk of infection", "D) Development of silent chest"],
+    "correct_answer": "B"
+  },
+  {
+    "id": 5,
+    "question": "A 'silent chest' in a patient with asthma indicates that the patient:",
+    "options": ["A) Is fully recovered from exacerbation", "B) Has no significant respiratory distress", "C) Has stopped wheezing and is in serious danger", "D) Has developed pleural effusion"],
+    "correct_answer": "C"
+  },
+  {
+    "id": 6,
+    "question": "Which medication is administered to prevent ongoing bronchoconstriction in a patient with asthma?",
+    "options": ["A) Albuterol", "B) Salmeterol", "C) Ipratropium", "D) Nystatin"],
+    "correct_answer": "C"
+  },
+  {
+    "id": 7,
+    "question": "If a patient with asthma develops candidiasis as a side effect of inhaled corticosteroids, which medication should be administered?",
+    "options": ["A) Albuterol", "B) Salmeterol", "C) Theophylline", "D) Nystatin"],
+    "correct_answer": "D"
+  },
+  {
+    "id": 8,
+    "question": "Regarding restrictive lung diseases, what becomes a primary factor of concern for individuals working in environments like sandblasts?",
+    "options": ["A) Mucous build-up in bronchioles", "B) Chronic inflammation of the bronchi", "C) Lungs become fibrosed and thick due to particles exposure", "D) Hyperinflation of the lungs"],
+    "correct_answer": "C"
+  },
+  {
+    "id": 9,
+    "question": "Which of the following is NOT a component in the 'FAT BAT' acronym for causes of pulmonary emboli?",
+    "options": ["A) Fat emboli", "B) Air emboli", "C) Trauma emboli", "D) Bacteria emboli"],
+    "correct_answer": "C"
+  },
+  {
+    "id": 10,
+    "question": "Administering Naloxone would be appropriate in the case of an overdose on:",
+    "options": ["A) Salmeterol", "B) Theophylline", "C) Dextromethorphan", "D) Montelukast"],
+    "correct_answer": "C"
+  },
+  {
+    "id": 11,
+    "question": "What is the main cause of chronic inflammation of the bronchial tubes in chronic bronchitis?",
+    "options": ["A) Asthma", "B) Emphysema", "C) Allergens", "D) Lifelong steroid use"],
+    "correct_answer": "D"
+  },
+  {
+    "id": 12,
+    "question": "Which of the following best characterizes 'emphysema'?",
+    "options": ["A) Chronic inflammation of bronchial tubes", "B) Destruction of alveoli", "C) Bronchoconstriction in asthma", "D) Fluid retention in the lungs"],
+    "correct_answer": "B"
+  },
+  {
+    "id": 13,
+    "question": "In a patient with asthma, what does the use of a Short-Acting Beta-Agonist (SABA) such as Albuterol primarily treat?",
+    "options": ["A) Infection", "B) Bronchoconstriction", "C) Candidiasis", "D) Cushing's disease"],
+    "correct_answer": "B"
+  },
+  {
+    "id": 14,
+    "question": "Which symptom is NOT a side effect of administering Albuterol?",
+    "options": ["A) Tremors", "B) Increased heart rate", "C) Insomnia", "D) Decreased CO2"],
+    "correct_answer": "D"
+  },
+  {
+    "id": 15,
+    "question": "What type of inhaler medication should be used with a spacer to prevent candidiasis?",
+    "options": ["A) Short-acting beta-agonists (SABA)", "B) Long-acting muscarinic antagonists (LAMA)", "C) Inhaled corticosteroids", "D) Long-acting beta-agonists (LABA)"],
+    "correct_answer": "C"
+  },
+  {
+    "id": 16,
+    "question": "Which of the following drugs is a Long-Acting Muscarinic Antagonist (LAMA) used for preventing bronchoconstriction?",
+    "options": ["A) Albuterol", "B) Nystatin", "C) Ipratropium", "D) Montelukast"],
+    "correct_answer": "C"
+  },
+  {
+    "id": 17,
+    "question": "For patients working in environments like sand blasts and coal mines, what disease risk increases due to inhaled particles?",
+    "options": ["A) Obstructive sleep apnea", "B) Asthma", "C) Restrictive lung diseases", "D) Pulmonary emboli"],
+    "correct_answer": "C"
+  },
+  {
+    "id": 18,
+    "question": "A patient presenting with chest pain, decreased oxygen saturation, increased heart rate and respiratory rate, along with a low-grade fever may be exhibiting symptoms of:",
+    "options": ["A) Acute bronchitis", "B) Pneumothorax", "C) Restrictive lung disease", "D) Pulmonary emboli"],
+    "correct_answer": "D"
+  },
+  {
+    "id": 19,
+    "question": "What treatment is often necessary for end-stage restrictive lung disease not responding to medications?",
+    "options": ["A) Bronchoscopy", "B) Lung transplant", "C) Therapeutic thoracentesis", "D) CPAP machine"],
+    "correct_answer": "B"
+  },
+  {
+    "id": 20,
+    "question": "What would be administered to counteract an overdose of Dextromethorphan?",
+    "options": ["A) Ipratropium", "B) Theophylline", "C) Albuterol", "D) Naloxone"],
+    "correct_answer": "D"
+  },
+  {
+    "id": 21,
+    "question": "What is the initial emergency treatment priority for someone who presents with singed facial hair after an incident?",
+    "options": ["A) Airway assessment and management", "B) Intravenous fluid administration", "C) Pain management", "D) Wound care and dressing"],
+    "correct_answer": "A"
+  },
+  {
+    "id": 22,
+    "question": "Which drug combination is given for long-term control of asthma to keep bronchioles relaxed?",
+    "options": ["A) Short-acting beta-agonist and inhaled corticosteroids", "B) Long-acting beta-agonist and inhaled corticosteroids", "C) Antileukotrienes and long-acting muscarinic antagonists", "D) Short-acting muscarinic antagonists and long-acting beta-agonists"],
+    "correct_answer": "B"
+  },
+  {
+    "id": 23,
+    "question": "What is the therapeutic range for Theophylline when used for asthma?",
+    "options": ["A) 10 to 20", "B) 5 to 15", "C) 15 to 25", "D) 20 to 30"],
+    "correct_answer": "A"
+  },
+  {
+    "id": 24,
+    "question": "What condition could develop from a patient's long-term exposure to inhaled particles at work, such as in coal mines or sandblasting?",
+    "options": ["A) Asthma", "B) Chronic obstructive pulmonary disease (COPD)", "C) Restrictive lung disease", "D) Pneumothorax"],
+    "correct_answer": "B"
+  },
+  {
+    "id": 25,
+    "question": "Which device is used to administer high-flow oxygen while simultaneously measuring the fraction of inspired oxygen (FiO2)?",
+    "options": ["A) Venturi mask", "B) Non-rebreather mask", "C) Simple face mask", "D) CPAP machine"],
+    "correct_answer": "A"
+  }
+]

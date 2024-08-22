@@ -1,0 +1,353 @@
+[
+  {
+      "id": 1,
+      "question": "A child with epiglottitis is likely to exhibit which of the following symptoms?",
+      "options": ["A) Barking cough", "B) Drooling and stridor", "C) Wheezing", "D) Seal-like bark"],
+      "correct_answer": "B"
+  },
+  {
+      "id": 2,
+      "question": "When caring for a patient with severe epiglottitis, it is crucial to have which of the following at the bedside?",
+      "options": ["A) Bronchodilators", "B) Trach tube", "C) Antipyretics", "D) A stethoscope"],
+      "correct_answer": "B"
+  },
+  {
+      "id": 3,
+      "question": "Bronchitis in pediatrics is commonly caused by which organism?",
+      "options": ["A) Haemophilus influenza", "B) Respiratory syncytial virus (RSV)", "C) Human parainfluenza virus", "D) Bordetella pertussis"],
+      "correct_answer": "B"
+  },
+  {
+      "id": 4,
+      "question": "A child with bronchitis is expected to display which of the following?",
+      "options": ["A) Elevated neutrophil count", "B) Drooling and use of accessory muscles", "C) Elevated lymphocytes and crackles", "D) High fever and muffled voice"],
+      "correct_answer": "C"
+  },
+  {
+      "id": 5,
+      "question": "Which of the following is the appropriate treatment approach for bronchitis caused by a viral infection?",
+      "options": ["A) Administer antibiotics", "B) Provide supportive care", "C) Incision and drainage", "D) Administer steroids"],
+      "correct_answer": "B"
+  },
+  {
+      "id": 6,
+      "question": "A pediatric patient with pertussis should be treated with which medication?",
+      "options": ["A) Antibiotics", "B) Bronchodilators", "C) Erythromycin", "D) N-acetylcysteine"],
+      "correct_answer": "C"
+  },
+  {
+      "id": 7,
+      "question": "Which clinical feature is characteristic of a pediatric patient with croup?",
+      "options": ["A) High fever and deviated tonsil", "B) Seal bark-like cough", "C) Crackles and wheeze", "D) Drooling and stridor"],
+      "correct_answer": "B"
+  },
+  {
+      "id": 8,
+      "question": "In the case of a peritonsillar abscess, which treatment modality is indicated?",
+      "options": ["A) Incision and drainage of the abscess", "B) Suctioning and drainage", "C) Bronchodilators", "D) Administering antipyretics"],
+      "correct_answer": "A"
+  },
+  {
+      "id": 9,
+      "question": "For treating allergies in pediatrics, which type of antihistamines are known to cause sedation?",
+      "options": ["A) First-generation", "B) Second-generation", "C) Non-sedative", "D) Antibiotics"],
+      "correct_answer": "A"
+  },
+  {
+      "id": 10,
+      "question": "What is the consistent part of treatment for cystic fibrosis to address respiratory challenges?",
+      "options": ["A) Incision and drainage of mucus", "B) Bronchodilators usage", "C) Chest physiotherapy", "D) Administration of IV fluids"],
+      "correct_answer": "C"
+  },
+  {
+      "id": 11,
+      "question": "What is the first-line treatment for a pediatric patient diagnosed with epiglottitis caused by Haemophilus influenzae B?",
+      "options": ["A) Oral antibiotics", "B) Administer Ceftriaxone", "C) Provide aspirin", "D) Immediate administration of RSV vaccine"],
+      "correct_answer": "B"
+  },
+  {
+      "id": 12,
+      "question": "Which of the following is an appropriate intervention for a child with epiglottitis in severe respiratory distress?",
+      "options": ["A) Encourage coughing to clear airway", "B) Place in a supine position", "C) Keep a trach tube at bedside", "D) Immediate chest physiotherapy"],
+      "correct_answer": "C"
+  },
+  {
+      "id": 13,
+      "question": "How should a nurse position a child with suspected epiglottitis while awaiting medical intervention?",
+      "options": ["A) Prone with neck extended", "B) Tripod position", "C) Left lateral decubitus", "D) Supine with legs elevated"],
+      "correct_answer": "B"
+  },
+  {
+      "id": 14,
+      "question": "Which course of action is contraindicated in the treatment of viral bronchitis in pediatrics?",
+      "options": ["A) Antibiotics", "B) Drainage and suction", "C) Fluids", "D) Breathing treatments"],
+      "correct_answer": "A"
+  },
+  {
+      "id": 15,
+      "question": "Family members of a patient with pertussis should be treated with:",
+      "options": ["A) Inhaled steroids", "B) Erythromycin", "C) Antipyretics", "D) Chest physiotherapy"],
+      "correct_answer": "B"
+  },
+  {
+      "id": 16,
+      "question": "The 'seal bark' cough is symptomatic of which pediatric respiratory condition?",
+      "options": ["A) Croup", "B) Asthma", "C) Bronchitis", "D) Epiglottitis"],
+      "correct_answer": "A"
+  },
+  {
+      "id": 17,
+      "question": "What is the treatment of choice for a peritonsillar abscess?",
+      "options": ["A) Administer Diphenhydramine", "B) Perform a tracheostomy", "C) Incision and drainage", "D) High frequency chest wall oscillator"],
+      "correct_answer": "C"
+  },
+  {
+      "id": 18,
+      "question": "First-generation antihistamines have which of the following side effects that may affect safety?",
+      "options": ["A) Hyperactivity", "B) Sedation", "C) Hypertension", "D) Antidiarrheal effect"],
+      "correct_answer": "B"
+  },
+  {
+      "id": 19,
+      "question": "Which medication is both a mucolytic and an antidote for acetaminophen overdose?",
+      "options": ["A) Loratadine", "B) Erythromycin", "C) N-acetylcysteine", "D) Ceftriaxone"],
+      "correct_answer": "C"
+  },
+  {
+      "id": 20,
+      "question": "For a child with cystic fibrosis, which action is not typically considered part of the respiratory treatment?",
+      "options": ["A) Incision and drainage", "B) High frequency chest wall oscillator", "C) Chest physiotherapy", "D) Administering n-acetylcysteine"],
+      "correct_answer": "A"
+  },
+  {
+      "id": 21,
+      "question": "What is the most appropriate initial action for a nurse when a pediatric patient presents with symptoms of epiglottitis and severe respiratory distress?",
+      "options": [
+          "A) Start chest physiotherapy immediately",
+          "B) Administer an oral antihistamine",
+          "C) Prepare for potential intubation",
+          "D) Give the patient fluids orally"
+      ],
+      "correct_answer": "C"
+  },
+  {
+      "id": 22,
+      "question": "Which organism is the most common cause of bronchitis that presents with wheezing and crackles in pediatric patients?",
+      "options": [
+          "A) Bordetella pertussis",
+          "B) Haemophilus influenzae",
+          "C) Staphylococcus aureus",
+          "D) Respiratory syncytial virus (RSV)"
+      ],
+      "correct_answer": "D"
+  },
+  {
+      "id": 23,
+      "question": "In managing a pediatric patient with croup, which medication can be administered via nebulizer to reduce inflammation?",
+      "options": [
+          "A) Ceftriaxone",
+          "B) Inhaled epinephrine",
+          "C) Oral erythromycin",
+          "D) Intramuscular steroids"
+      ],
+      "correct_answer": "B"
+  },
+  {
+      "id": 24,
+      "question": "A patient presents with high fever, muffled voice, and a deviated uvula. What is the most likely diagnosis?",
+      "options": [
+          "A) Epiglottitis",
+          "B) Cystic fibrosis",
+          "C) Peritonsillar abscess",
+          "D) Croup"
+      ],
+      "correct_answer": "C"
+  },
+  {
+      "id": 25,
+      "question": "Which second-generation antihistamine is less likely to cause sedation in patients being treated for allergies?",
+      "options": [
+          "A) Diphenhydramine",
+          "B) Chlorpheniramine",
+          "C) Loratadine",
+          "D) Cetirizine"
+      ],
+      "correct_answer": "C"
+  },
+  {
+      "id": 26,
+      "question": "For a pediatric patient with cystic fibrosis, administration of what drug helps thin the secretions during chest physiotherapy?",
+      "options": [
+          "A) Erythromycin",
+          "B) N-acetylcysteine",
+          "C) Diphenhydramine",
+          "D) Loratadine"
+      ],
+      "correct_answer": "B"
+  },
+  {
+      "id": 27,
+      "question": "In a pediatric patient with epiglottitis, which clinical finding is commonly present?",
+      "options": [
+          "A) Vesicular breath sounds",
+          "B) Stridor",
+          "C) Hypoactive bowel sounds",
+          "D) Murmurs"
+      ],
+      "correct_answer": "B"
+  },
+  {
+      "id": 28,
+      "question": "Which pathogen is primarily responsible for the onset of epiglottitis that can be prevented through vaccination?",
+      "options": [
+          "A) Respiratory syncytial virus (RSV)",
+          "B) Haemophilus influenzae type B",
+          "C) Parainfluenza virus",
+          "D) Mycoplasma pneumoniae"
+      ],
+      "correct_answer": "B"
+  },
+  {
+      "id": 29,
+      "question": "In treating bronchitis symptoms such as crackles and wheezing in a pediatric patient, which of the following interventions is least appropriate?",
+      "options": [
+          "A) Administration of antibiotics",
+          "B) Breathing treatments",
+          "C) Rest",
+          "D) Fluids"
+      ],
+      "correct_answer": "A"
+  },
+  {
+      "id": 30,
+      "question": "A pediatric patient with croup could require which emergency treatment if severe respiratory distress occurs?",
+      "options": [
+          "A) Oral erythromycin",
+          "B) Nebulized inhaled epinephrine",
+          "C) Oral prednisone",
+          "D) Antibiotics"
+      ],
+      "correct_answer": "B"
+  },
+  {
+      "id": 31,
+      "question": "What is the first-line drug of choice for a family member who has been exposed to pertussis?",
+      "options": [
+          "A) Ceftriaxone",
+          "B) N-acetylcysteine",
+          "C) Erythromycin",
+          "D) Chlorpheniramine"
+      ],
+      "correct_answer": "C"
+  },
+  {
+      "id": 32,
+      "question": "To avoid possible aspiration, when should chest physiotherapy be performed in a child with cystic fibrosis?",
+      "options": [
+          "A) Immediately after meals",
+          "B) During meals",
+          "C) Before meals",
+          "D) Without regard to mealtime"
+      ],
+      "correct_answer": "C"
+  },
+  {
+      "id": 33,
+      "question": "In elderly patients being treated for allergies, why might first-generation antihistamines such as diphenhydramine need to be used with caution?",
+      "options": [
+          "A) They cause an anticholinergic effect that can lead to urinary retention",
+          "B) They increase the risk of cardiac arrhythmias",
+          "C) They can result in hyperglycemia",
+          "D) They tend to cause severe dehydration"
+      ],
+      "correct_answer": "A"
+  },
+  {
+      "id": 34,
+      "question": "A pediatric patient is suspected of having a peritonsillar abscess. Which symptom is least likely to be observed?",
+      "options": [
+          "A) Seal-like barking cough",
+          "B) Muffled voice",
+          "C) High fever",
+          "D) Deviated uvula"
+      ],
+      "correct_answer": "A"
+  },
+  {
+      "id": 35,
+      "question": "Which vaccine can prevent the primary cause of epiglottitis in pediatric patients?",
+      "options": [
+          "A) DPT (Diphtheria, Pertussis, Tetanus)",
+          "B) MMR (Measles, Mumps, Rubella)",
+          "C) Hib (Haemophilus influenzae type b)",
+          "D) Varicella"
+      ],
+      "correct_answer": "C"
+  },
+  {
+      "id": 36,
+      "question": "What is the hallmark sign of respiratory distress in pediatric epiglottitis?",
+      "options": [
+          "A) Barrel chest",
+          "B) Clubbing of fingers",
+          "C) Stridor",
+          "D) Bradypnea"
+      ],
+      "correct_answer": "C"
+  },
+  {
+      "id": 37,
+      "question": "Which finding would you expect to observe in a patient with bronchitis?",
+      "options": [
+          "A) Rhonchi",
+          "B) Friction rub",
+          "C) Crackles",
+          "D) Pleural rub"
+      ],
+      "correct_answer": "C"
+  },
+  {
+      "id": 38,
+      "question": "Treatment for which respiratory condition should specifically include maintaining a trach tube at bedside?",
+      "options": [
+          "A) Asthma",
+          "B) Bronchitis",
+          "C) Cystic Fibrosis",
+          "D) Epiglottitis"
+      ],
+      "correct_answer": "D"
+  },
+  {
+      "id": 39,
+      "question": "A patient with peritonsillar abscess is exhibiting which of these symptoms?",
+      "options": [
+          "A) Tripod positioning",
+          "B) Hyperresonance on lung percussion",
+          "C) High fever and muffled voice",
+          "D) Cough with expectoration"
+      ],
+      "correct_answer": "C"
+  },
+  {
+      "id": 40,
+      "question": "Which medication is indicated for the management of allergies without causing drowsiness?",
+      "options": [
+          "A) Diphenhydramine",
+          "B) Cetirizine",
+          "C) Chlorpheniramine",
+          "D) Codeine"
+      ],
+      "correct_answer": "B"
+  },
+  {
+      "id": 41,
+      "question": "In a patient with cystic fibrosis, the use of high-frequency chest wall oscillation is indicated in which scenario?",
+      "options": [
+          "A) When mucous plugs persist despite performing chest physiotherapy",
+          "B) Following an acute bronchodilator treatment",
+          "C) Immediately prior to the administration of IV antibiotics",
+          "D) After administration of oral antihistamines"
+      ],
+      "correct_answer": "A"
+  }
+]
