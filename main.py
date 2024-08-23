@@ -1,6 +1,7 @@
 # I had a fun time coding this side project. My goal with this project was to make a fun-interactive way to study for the NCLEX.
 # Please try it out and if you have coding experience... feel free to contribute. 
 # If you cannot compile this by yourself... there will be a .exe (executable) version. 
+# .exe file can be found here: https://nclex-coder.itch.io/nclex-content-game
 # Credits = @anonymous-chad on GitHub!
 # And, I will be adding more questions as time progresses. Feel free to add questions for yourself too. 
 import pygame
