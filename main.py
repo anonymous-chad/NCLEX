@@ -4,6 +4,7 @@
 # .exe file can be found here: https://nclex-coder.itch.io/nclex-content-game
 # Credits = @anonymous-chad on GitHub!
 # And, I will be adding more questions as time progresses. Feel free to add questions for yourself too. 
+# Official Steam version in development (with different assets and advanced gameplay)
 import pygame
 import random
 import json
