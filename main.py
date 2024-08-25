@@ -833,7 +833,7 @@ def show_item_shop():
                     if player_currency >= 100:
                         player_currency -= 100
                         save_progress()  
-                        webbrowser.open("https://t.me/+Ny8Z_oRe2fUzYjgx")
+                        webbrowser.open("https://t.me/+UZbeV1eYoVg2MGNh")
                         print("You now have access to the Telegram secret chat!")
                     else:
                         print("Not enough currency to access the Telegram secret chat.")
